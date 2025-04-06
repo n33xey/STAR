@@ -1,0 +1,42 @@
+body {
+    font-family: monospace;
+    background-color: rgb(153, 145, 123);
+}
+
+header {
+    background-color:rgba(47, 55, 36, 1);
+    color:rgb(209, 207, 180);
+    padding: 15px 10px 40px 10px;
+    border:15px double rgb(187, 192, 161);
+}
+
+main img {
+    width: 350px; 
+    height: 160px ;
+    margin-top: 15px;
+    margin-left: 15px;
+    border:5px dashed rgb(72, 82, 53);
+}
+main {
+    font-size:20px ;
+    color: white;
+    margin-left: 15px;
+}
+footer {
+    background-color: rgb(56, 37, 37);
+    color: white;
+    font-size: 20px;
+    padding: 15px 10px 15px 10px;
+    border: 5px solid rgb(99, 78, 68);
+}
+footer p {
+    background-color: rgb(123, 107, 101);
+    margin-left: 15px;
+}
+main p {
+    margin-left: 15px;
+}
+
+main h1 {
+    margin-left: 15px;
+}
